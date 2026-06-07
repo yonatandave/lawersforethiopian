@@ -1,0 +1,170 @@
+Enterindex.html<!DOCTYPE html>
+<html lang="am">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>የህግ ባለሞያ ለኢትዮጵያ</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+margin:0;
+padding:0;
+background:#f4f4f4;
+}
+
+header{
+background:#003366;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#00509e;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+section{
+padding:20px;
+background:white;
+margin:15px;
+border-radius:8px;
+}
+
+h2{
+color:#003366;
+}
+
+.btn{
+background:#00509e;
+color:white;
+padding:10px 20px;
+text-decoration:none;
+border-radius:5px;
+}
+
+footer{
+background:#003366;
+color:white;
+text-align:center;
+padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>የህግ ባለሞያ ለኢትዮጵያ</h1>
+<p>Legal Professional for Ethiopia</p>
+</header>
+
+<nav>
+<a href="#laws">ህጎች</a>
+<a href="#training">ስልጠና</a>
+<a href="#consultation">የህግ ማማከር</a>
+<a href="#cassation">የሰበር ውሳኔዎች</a>
+<a href="#payment">ክፍያ</a>
+<a href="#contact">አግኙን</a>
+</nav>
+
+<section>
+<h2>ስለ ድረ-ገፁ</h2>
+<p>
+ይህ ድረ-ገጽ የኢትዮጵያ ህጎችን፣
+የፍርድ ቤት ውሳኔዎችን፣
+የህግ ትምህርቶችን እና
+የህግ ማማከር አገልግሎቶችን
+ለማቅረብ የተዘጋጀ ነው።
+</p>
+</section>
+
+<section id="laws">
+<h2>የኢትዮጵያ ህጎች</h2>
+<p>PDF, Video, Audio እና Image ፋይሎችን ያግኙ።</p>
+<a href="#" class="btn">ህጎችን ይመልከቱ</a>
+</section>
+
+<section id="consultation">
+<h2>የህግ ማማከር</h2>
+<p>
+የህግ ጥያቄዎችዎን በመላክ
+የሙያ ምክር ያግኙ።
+</p>
+<a href="#" class="btn">ጥያቄ ላክ</a>
+</section>
+
+<section id="training">
+<h2>6 ወር የህግ ስልጠና</h2>
+<p>
+በሲቪል፣ ወንጀል፣ ንግድ እና
+ሌሎች የህግ ዘርፎች
+ስልጠናዎችን ያግኙ።
+</p>
+<a href="#" class="btn">ይመዝገቡ</a>
+</section>
+
+<section id="cassation">
+<h2>የኢፌዴሪ ሰበር ውሳኔዎች</h2>
+
+<form>
+<input type="text"
+placeholder="የፋይል ቁጥር ወይም ቅፅ"
+style="width:80%;padding:10px;">
+<button type="submit">ፈልግ</button>
+</form>
+
+<p>
+የሰበር ውሳኔዎችን
+በዘርፍ እና በፋይል ቁጥር
+መፈለግ ይችላሉ።
+</p>
+</section>
+
+<section id="payment">
+<h2>የክፍያ አማራጮች</h2>
+
+<ul>
+<li>የኢትዮጵያ ንግድ ባንክ (CBE)</li>
+<li>CBE Birr</li>
+<li>Telebirr</li>
+</ul>
+
+<p>
+የሰበር ውሳኔዎችን ለማግኘት
+500 ብር ክፍያ ይከፈላል።
+</p>
+</section>
+
+<section>
+<h2>የመቀላቀያ ቅድመ ሁኔታዎች</h2>
+
+<ul>
+<li>ትክክለኛ ስም መጠቀም</li>
+<li>የኢሜይል አድራሻ መመዝገብ</li>
+<li>የድረ-ገጹን ህጎች መቀበል</li>
+<li>ክፍያ የሚጠይቁ አገልግሎቶችን በተገቢው ክፍያ ማግኘት</li>
+</ul>
+</section>
+
+<section id="contact">
+<h2>አግኙን</h2>
+<p>Admin: ዮናታን ዳዊት መንግስቱ</p>
+<p>Email: info@yourwebsite.com</p>
+</section>
+
+<footer>
+<p>© 2026 የህግ ባለሞያ ለኢትዮጵያ</p>
+</footer>
+
+</body>
+</html>
