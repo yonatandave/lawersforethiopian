@@ -581,3 +581,6 @@
 </script>
 </body>
 </html>
+git add index.html profile.jpg
+git commit -m "Change profile picture"
+git push
