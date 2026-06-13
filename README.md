@@ -1,8 +1,4 @@
-tindex.html<!DOCTYPE html>// á‹­áˆ…áŠ•áŠ• CONFIG á‹ˆá‹° á‹Œá‰¥áˆ³á‹­á‰µá‹Ž áŠ®á‹µ á‹­á‰…á‹±
-const CONFIG = {
-  "siteTitle_am": "á‹¨áˆ…áŒ á‰£áˆˆáˆžá‹« áˆˆáŠ¢á‰µá‹®áŒµá‹«",
-  "siteTitle_en": "Lawyers for Ethiopia",
-  "siteSubtitle_am": "á‹¨áˆ…áŒ áŠ¥á‹á‰€á‰µ áˆˆáˆáˆ‰áˆ",
+",
   "siteSubtitle_en": "Legal Knowledge for Everyone",
   "profileImageUrl": "Jpg",
   "paymentBank": "1000417819437",
